@@ -7,7 +7,7 @@
 - Trần Định Thái Hòa
 ##
 
-## 🛠️ Project Website Fashion
+## 🛠️ Project Website Products
 1. Clone the repository
 ```bash
 git clone https://github.com/Godly-exe/WebsiteProduct
